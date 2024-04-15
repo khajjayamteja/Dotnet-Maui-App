@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khajj\\source\\repos\\MyContacts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\views\\editcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\views\\editcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\views\\editcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\views\\editcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditContactPage.xaml",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\EditContactPage.xaml",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml",
+              "RelativeToolTip": "MyContacts.Maui\\Views\\EditContactPage.xaml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T01:04:24.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditContactPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
+              "RelativeToolTip": "MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:41:28.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\MauiProgram.cs",
+              "RelativeToolTip": "MyContacts.Maui\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:03:30.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
