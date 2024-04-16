@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\khajj\\source\\repos\\MyContacts\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\views\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\views\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\models\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\models\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\views\\addcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\views\\addcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\views\\addcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\views\\addcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\views\\editcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\views\\editcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +31,16 @@
       "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\views\\editcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\views\\controls\\contactcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\views\\controls\\contactcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\views\\controls\\contactcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\views\\controls\\contactcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|c:\\users\\khajj\\source\\repos\\mycontacts\\mycontacts.maui\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244898E0-83F2-4BC0-B591-428A2470576B}|MyContacts.Maui\\MyContacts.Maui.csproj|solutionrelative:mycontacts.maui\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,42 +58,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditContactPage.xaml",
-              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml",
-              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\EditContactPage.xaml",
-              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml",
-              "RelativeToolTip": "MyContacts.Maui\\Views\\EditContactPage.xaml",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwBwAAAAgAAAA",
+              "DocumentIndex": 4,
+              "Title": "AddContactPage.xaml",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\AddContactPage.xaml",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\AddContactPage.xaml",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\AddContactPage.xaml",
+              "RelativeToolTip": "MyContacts.Maui\\Views\\AddContactPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-15T01:04:24.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditContactPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
-              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
-              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
-              "RelativeToolTip": "MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAkwDEAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T00:41:28.821Z",
+              "WhenOpened": "2024-04-16T02:16:16.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MyContacts.Maui\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\MauiProgram.cs",
-              "RelativeToolTip": "MyContacts.Maui\\MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T01:03:30.23Z",
+              "Title": "ContactsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\ContactsPage.xaml",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\ContactsPage.xaml",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\ContactsPage.xaml",
+              "RelativeToolTip": "MyContacts.Maui\\Views\\ContactsPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-13T23:53:58.953Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddContactPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\AddContactPage.xaml.cs",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\AddContactPage.xaml.cs",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\AddContactPage.xaml.cs",
+              "RelativeToolTip": "MyContacts.Maui\\Views\\AddContactPage.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:18:05.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\ContactsPage.xaml.cs",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\ContactsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\ContactsPage.xaml.cs",
+              "RelativeToolTip": "MyContacts.Maui\\Views\\ContactsPage.xaml.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T23:55:30.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Models\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Models\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Models\\ContactRepository.cs",
+              "RelativeToolTip": "MyContacts.Maui\\Models\\ContactRepository.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAQwEUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T01:22:38.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditContactPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
+              "RelativeToolTip": "MyContacts.Maui\\Views\\EditContactPage.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:52:16.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditContactPage.xaml",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\EditContactPage.xaml",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\EditContactPage.xaml",
+              "RelativeToolTip": "MyContacts.Maui\\Views\\EditContactPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-14T21:52:12.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactControl.xaml",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\Controls\\ContactControl.xaml",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\Controls\\ContactControl.xaml",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\Controls\\ContactControl.xaml",
+              "RelativeToolTip": "MyContacts.Maui\\Views\\Controls\\ContactControl.xaml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T01:22:14.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\Controls\\ContactControl.xaml.cs",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Views\\Controls\\ContactControl.xaml.cs",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Views\\Controls\\ContactControl.xaml.cs",
+              "RelativeToolTip": "MyContacts.Maui\\Views\\Controls\\ContactControl.xaml.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:22:16.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "MyContacts.Maui\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\khajj\\source\\repos\\MyContacts\\MyContacts.Maui\\Models\\Contact.cs",
+              "RelativeToolTip": "MyContacts.Maui\\Models\\Contact.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T01:15:56.169Z"
             }
           ]
         }
